@@ -19,6 +19,7 @@ Uni project • IoT
 ## 🛠️ Tech Stack
 Backend: FastAPI - Python - SQLAlchemy 
 Frontend: Flutter - Dart
+ML: Pandas - Numpy - Matplotlib
 Tools: VS Code - PyCharm - Git  
 
 
