@@ -10,7 +10,7 @@ Cairo, Egypt 🇪🇬 | Class of 2028
 
 ### Internship-Tracker (FastAPI + Flutter)
 **Full-stack app to track internship applications**  
-[![GitHub Repo](Private for now)
+(Private repo for now)
 
 ### Home Automation System (Coming Soon)
 **Python-based smart home controller**  
