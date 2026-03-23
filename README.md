@@ -17,10 +17,13 @@ Cairo, Egypt 🇪🇬 | Class of 2028
 Uni project • IoT 
 
 ## 🛠️ Tech Stack
-Backend: FastAPI - Python - SQLAlchemy 
-Frontend: Flutter - Dart
-ML: Pandas - Numpy - Matplotlib
-Tools: VS Code - PyCharm - Git  
+
+| Backend | Frontend | ML | Tools |
+|---------|----------|----|-------|
+| FastAPI | Flutter | Pandas | VS Code |
+| Python | Dart | NumPy | PyCharm |
+| SQLAlchemy | | Matplotlib | Git |
+ 
 
 
 ## 🎯 Open To
